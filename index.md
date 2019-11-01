@@ -28,5 +28,5 @@ Here are some highlights of markdown syntax.
 
 [Raising Capybaras (The Spruce)](https://www.thesprucepets.com/pet-capybaras-giant-guinea-pigs-4101211)
 
-Here is an image. Don't forget some alt text for better accessibility!
-![Image of GitHub's mascot Octocat](images/Octocat.png)
+Here is an image. 
+![Geheric Pet Image](images/pet.jpg)
