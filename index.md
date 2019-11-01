@@ -29,4 +29,4 @@ Here are some highlights of markdown syntax.
 [Raising Capybaras (The Spruce)](https://www.thesprucepets.com/pet-capybaras-giant-guinea-pigs-4101211)
 
 Here is an image. 
-![Geheric Pet Image](images/pet.jpg)
+![Generic Pet Image](images/pet.png)
