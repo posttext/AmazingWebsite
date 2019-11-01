@@ -2,21 +2,31 @@ You can use markdown to add content to you webpage.
 
 Here are some highlights of markdown syntax.
 
-# Heading 1
-## Heading 2
-### Heading 3
+# Pets
+## Cats
 
-**bold**
-*italics*
+1. Orange
+2. Black
 
-1. List Item 1
-2. List Item 2
+## Dogs
 
-* Bullet 1
-* Bullet 2
-* Bullet 3
+1. Beagle
+2. Bassett Hound
 
-[This is a link](https://google.com)
+### Retrivers
+* Golden
+* Chesapeake
+
+**But Wait**
+*There's More*
+
+## Small Mammals
+
+* Gerbil
+* Guinea Pig
+* Capybara
+
+[Raising Capybaras (The Spruce)](https://www.thesprucepets.com/pet-capybaras-giant-guinea-pigs-4101211)
 
 Here is an image. Don't forget some alt text for better accessibility!
 ![Image of GitHub's mascot Octocat](images/Octocat.png)
